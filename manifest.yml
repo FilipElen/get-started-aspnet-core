@@ -1,6 +1,6 @@
 ---
 applications:
-- name: GetStartedDotnet
+- name: Caitlin
   random-route: true
   memory: 512M
   env:
